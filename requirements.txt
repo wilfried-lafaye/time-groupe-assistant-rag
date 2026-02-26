@@ -1,0 +1,15 @@
+# === Serveur Web ===
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# === Orchestration IA ===
+langchain==0.3.7
+langchain-openai==0.2.9
+langchain-community==0.3.7
+
+# === Base de données vectorielle ===
+chromadb==0.5.18
+
+# === Utilitaires ===
+python-dotenv==1.0.1
+pydantic==2.9.2
